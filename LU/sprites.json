@@ -3,6 +3,13 @@
     "height": 63,
     "pixelRatio": 1,
     "width": 120,
+    "x": 300,
+    "y": 0
+  },
+  "minus_purplewhite_size25": {
+    "height": 158,
+    "pixelRatio": 1,
+    "width": 300,
     "x": 0,
     "y": 0
   }
