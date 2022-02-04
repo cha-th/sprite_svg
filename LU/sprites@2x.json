@@ -1,8 +1,8 @@
 {
-  "pattern": {
-    "height": 100,
+  "pattern (1)": {
+    "height": 300,
     "pixelRatio": 2,
-    "width": 100,
+    "width": 300,
     "x": 0,
     "y": 0
   }
