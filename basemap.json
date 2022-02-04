@@ -1,0 +1,68 @@
+{
+    "version": 8,
+    "name": "Blank Style",
+    "sources": {
+        "61fba78d52ea3585292e271a": {
+            "id": "61fba78d52ea3585292e271a",
+            "title": "การใช้ประโยชน์ที่ดินตามผังเมืองEEC",
+            "type": "vector",
+            "url": "https://v2k-dev.vallarismaps.com/core/api/tiles/1.0-beta/tiles/61fba78d52ea3585292e271a?api_key=GgMIhL2uBzUrf6GcXKb9BqOuQYrQvAYQiVhegNjq75d1OjNWJWJD5itOywr5oxUd"
+        },
+        "61fba8ce52ea3585292e271c": {
+            "id": "61fba8ce52ea3585292e271c",
+            "title": "การใช้ประโยชน์ที่ดินตามผังเมือง",
+            "type": "vector",
+            "url": "https://v2k-dev.vallarismaps.com/core/api/tiles/1.0-beta/tiles/61fba8ce52ea3585292e271c?api_key=GgMIhL2uBzUrf6GcXKb9BqOuQYrQvAYQiVhegNjq75d1OjNWJWJD5itOywr5oxUd"
+        }
+    },
+    "sprite": "https://v2k-dev.vallarismaps.com/core/tiles/sprite/sprites",
+    "glyphs": "https://v2k-dev.vallarismaps.com/core/tiles/fonts/{fontstack}/{range}.pbf",
+    "layers": [{
+        "id": "eec",
+        "paint": {
+            "fill-color": ["match", ["get", "color"], "ม่วง", "#6F0DFD", "เหลือง", "#FAFA00", "แดง", "#FD0002", "น้ำตาล", "#983601", "ส้ม", "#FD7813", "เหลืองอ่อน", "#ffffd2", "เขียวอ่อน", "#d1ff73", "เขียวขาว", "#4ce600", "เขียวฟ้า", "#00bf59", "ม่วงลายจุด", "#df73ff", "ส้มลายจุด", "#ffd88e", "เหลืองเขียว", "#ffff73", "#FF9FFF"],
+            "fill-opacity": 1,
+            "fill-outline-color": "rgba(0, 0, 0, 1)"
+        },
+        "source": "61fba78d52ea3585292e271a",
+        "source-layer": "61fba78d52ea3585292e271a",
+        "type": "fill"
+    }, {
+        "id": "Thaiplancity",
+        "paint": {
+            "fill-antialias": true,
+            "fill-color": ["match", ["get", "color"], "ม่วงอ่อน", "#bf00e6", "แดง", "#ff0000", "น้ำตาล", "#983601", "ส้ม", "#FD7813", "เหลือง", "#ffff00", "เขียวอ่อน", "#d1ff73", "เขียวขาว", "#4ce600", "เขียวฟ้า", "#00bf59", "เทา", "#adadad", "เขียวขี้ม้า", "#557300", "ขาว", "#FFFFFF", "ฟ้า", " #007fff", "น้ำตาลเขียว", "#e69800", "เขียวเข้ม", "#38a800", "#FF9FFF"],
+            "fill-opacity": 1,
+            "fill-outline-color": "rgba(0, 0, 0, 1)"
+        },
+        "source": "61fba8ce52ea3585292e271c",
+        "source-layer": "61fba8ce52ea3585292e271c",
+        "type": "fill"
+    }, {
+        "id": "Thaiplancity-label",
+        "layout": {
+            "text-field": "{pl_des}",
+            "text-font": ["Niramit Light"],
+            "text-size": 11
+        },
+        "maxzoom": 22,
+        "minzoom": 14,
+        "paint": {
+            "text-halo-color": "rgba(255, 255, 255, 1)",
+            "text-halo-width": 1
+        },
+        "source": "61fba8ce52ea3585292e271c",
+        "source-layer": "61fba8ce52ea3585292e271c",
+        "type": "symbol"
+    }, {
+        "id": "eec-label",
+        "paint": {
+            "fill-color": ["match", ["get", "color"], "ม่วง", "#6F0DFD", "เหลือง", "#FAFA00", "แดง", "#FD0002", "น้ำตาล", "#983601", "ส้ม", "#FD7813", "เหลืองอ่อน", "#ffffd2", "เขียวอ่อน", "#d1ff73", "เขียวขาว", "#4ce600", "เขียวฟ้า", "#00bf59", "ม่วงลายจุด", "#df73ff", "ส้มลายจุด", "#ffd88e", "เหลืองเขียว", "#ffff73", "#FF9FFF"],
+            "fill-opacity": 1,
+            "fill-outline-color": "rgba(0, 0, 0, 1)"
+        },
+        "source": "61fba78d52ea3585292e271a",
+        "source-layer": "61fba78d52ea3585292e271a",
+        "type": "fill"
+    }]
+}

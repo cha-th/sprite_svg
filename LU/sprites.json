@@ -1,16 +1,9 @@
 {
-  "green": {
-    "height": 100,
+  "minus_browndarkengreen": {
+    "height": 63,
     "pixelRatio": 1,
-    "width": 100,
+    "width": 120,
     "x": 0,
     "y": 0
-  },
-  "weather": {
-    "height": 86,
-    "pixelRatio": 1,
-    "width": 122,
-    "x": 0,
-    "y": 100
   }
 }
