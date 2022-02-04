@@ -1,0 +1,16 @@
+{
+  "green": {
+    "height": 200,
+    "pixelRatio": 2,
+    "width": 200,
+    "x": 0,
+    "y": 0
+  },
+  "weather": {
+    "height": 173,
+    "pixelRatio": 2,
+    "width": 245,
+    "x": 0,
+    "y": 200
+  }
+}
