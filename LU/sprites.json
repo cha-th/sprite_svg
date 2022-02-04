@@ -1,16 +1,9 @@
 {
-  "resize_test2": {
-    "height": 76,
+  "pattern": {
+    "height": 50,
     "pixelRatio": 1,
-    "width": 144,
+    "width": 50,
     "x": 0,
-    "y": 0
-  },
-  "resizetest3": {
-    "height": 76,
-    "pixelRatio": 1,
-    "width": 144,
-    "x": 144,
     "y": 0
   }
 }
