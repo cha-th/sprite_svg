@@ -5,5 +5,12 @@
     "width": 900,
     "x": 0,
     "y": 0
+  },
+  "pattern (1)": {
+    "height": 540,
+    "pixelRatio": 3,
+    "width": 900,
+    "x": 900,
+    "y": 0
   }
 }

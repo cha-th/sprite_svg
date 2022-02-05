@@ -5,5 +5,12 @@
     "width": 300,
     "x": 0,
     "y": 0
+  },
+  "pattern (1)": {
+    "height": 180,
+    "pixelRatio": 1,
+    "width": 300,
+    "x": 300,
+    "y": 0
   }
 }
