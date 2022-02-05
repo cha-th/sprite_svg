@@ -1,0 +1,30 @@
+{
+  "250": {
+    "height": 500,
+    "pixelRatio": 2,
+    "width": 500,
+    "x": 0,
+    "y": 1002
+  },
+  "251": {
+    "height": 500,
+    "pixelRatio": 2,
+    "width": 500,
+    "x": 500,
+    "y": 1002
+  },
+  "500": {
+    "height": 1000,
+    "pixelRatio": 2,
+    "width": 1000,
+    "x": 1000,
+    "y": 0
+  },
+  "501": {
+    "height": 1002,
+    "pixelRatio": 2,
+    "width": 1000,
+    "x": 0,
+    "y": 0
+  }
+}
