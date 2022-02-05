@@ -1,29 +1,8 @@
 {
-  "250": {
-    "height": 250,
+  "pattern": {
+    "height": 180,
     "pixelRatio": 1,
-    "width": 250,
-    "x": 0,
-    "y": 501
-  },
-  "251": {
-    "height": 250,
-    "pixelRatio": 1,
-    "width": 250,
-    "x": 250,
-    "y": 501
-  },
-  "500": {
-    "height": 500,
-    "pixelRatio": 1,
-    "width": 500,
-    "x": 500,
-    "y": 0
-  },
-  "501": {
-    "height": 501,
-    "pixelRatio": 1,
-    "width": 500,
+    "width": 300,
     "x": 0,
     "y": 0
   }
