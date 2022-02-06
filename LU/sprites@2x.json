@@ -1,16 +1,16 @@
 {
-  "pattern": {
-    "height": 360,
+  "greenwhitepx500": {
+    "height": 1000,
     "pixelRatio": 2,
-    "width": 600,
+    "width": 1000,
     "x": 0,
     "y": 0
   },
-  "pattern (1)": {
-    "height": 360,
+  "greenwhiteresize200": {
+    "height": 400,
     "pixelRatio": 2,
-    "width": 600,
-    "x": 600,
+    "width": 400,
+    "x": 1000,
     "y": 0
   }
 }
